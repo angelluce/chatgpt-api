@@ -1,0 +1,19 @@
+{
+    "choices": [{
+        "finish_reason": "stop",
+        "index": 0,
+        "message": {
+            "content": "string",
+            "role": "string"
+        }
+    }],
+    "created": 1679776746,
+    "id": "string",
+    "model": "string",
+    "object": "string",
+    "usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0,
+        "total_tokens": 0
+    }
+}
