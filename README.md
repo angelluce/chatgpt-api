@@ -17,7 +17,7 @@ Revisar la documentación oficial en los siguientes enlaces:
 
 ## Instalación
 
-Instalar Flask en el proyecto utilizando el comando `pip install openai`
+Instalar el módulo OpenAI en el proyecto utilizando el comando `pip install openai`
 
 
 
